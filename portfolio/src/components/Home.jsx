@@ -172,7 +172,7 @@ const Home = () => {
             </a>
           </div>
           <a
-            href="https://drive.google.com/file/d/1R0NqmRJI3R1qv-2lEXmYYjZJhcsltYnc/view?usp=sharing"
+            href="https://drive.google.com/file/d/1S-MvocMhNOcSguTvBFiIxkyvMxkFGPY6/view?usp=sharing"
             className="btn"
           >
             Download Resume
